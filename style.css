@@ -390,6 +390,10 @@ header {
   .menu-btn {
     display: block;
   }
+  .banner-image img{
+    height: 410px;
+    width: 290px;
+  }
 }
 
 /*----- Skills
@@ -668,4 +672,5 @@ width: 95%;
   .bg-text:after {
     right: 0;
   }
+
 }
