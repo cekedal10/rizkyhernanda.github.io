@@ -394,6 +394,10 @@ header {
     height: 410px;
     width: 290px;
   }
+    .banner-title{
+        font-size: 70px;
+    }
+
 }
 
 /*----- Skills
@@ -674,3 +678,4 @@ width: 95%;
   }
 
 }
+
